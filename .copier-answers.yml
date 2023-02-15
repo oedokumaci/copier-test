@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: 0.10.14
+_src_path: gh:pawamoy/copier-pdm
+author_email: oral.ersoy.dokumaci@gmail.com
+author_fullname: Oral Ersoy Dokumaci
+author_username: oedokumaci
+copyright_date: '2023'
+copyright_holder: Oral Ersoy Dokumaci
+copyright_holder_email: oral.ersoy.dokumaci@gmail.com
+copyright_license: ISC License
+project_description: Test repo to be deleted later.
+project_name: copier-test
+python_package_command_line_name: copier-test
+python_package_distribution_name: copier-test
+python_package_import_name: copier_test
+repository_name: copier-test
+repository_namespace: oedokumaci
+repository_provider: github.com
+use_precommit: true
+
